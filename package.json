@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "multiselect-react-dropdown": "^2.0.25",
+    "papaparse": "^5.5.3",
+    "react-data-table-component": "^7.7.0"
+  }
+}
